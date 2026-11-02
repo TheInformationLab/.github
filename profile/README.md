@@ -1,19 +1,11 @@
-<!--
-DRAFT for sign-off. Not published.
-Banner: add once the logo and brand assets are exported. Intended markup:
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
-  <img alt="The Information Lab" src="banner-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheInformationLab/.github/main/profile/banner-dark.png">
+  <img alt="The Information Lab. Helping people make sense of data." src="https://raw.githubusercontent.com/TheInformationLab/.github/main/profile/banner-light.png" width="100%">
 </picture>
--->
-
-# Helping people make sense of data
 
 The Information Lab is a global team of data enthusiasts. We help organisations get value from their data through skills, technology and processes, and this is where we share some of the code we build along the way.
 
-[Website](https://www.theinformationlab.co.uk) &nbsp;&middot;&nbsp; [The Data School](https://www.thedataschool.co.uk) &nbsp;&middot;&nbsp; [X](https://x.com/infolabUK) &nbsp;&middot;&nbsp; [Email us](mailto:info@theinformationlab.co.uk)
-<!-- add LinkedIn once we have the URL -->
+[Website](https://www.theinformationlab.co.uk) &nbsp;&middot;&nbsp; [The Data School](https://www.thedataschool.co.uk) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/company/the-information-lab/) &nbsp;&middot;&nbsp; [X](https://x.com/infolabUK) &nbsp;&middot;&nbsp; [Email us](mailto:info@theinformationlab.co.uk)
 
 ## What we do
 
