@@ -22,7 +22,6 @@ Most of what you will find here is starter code, examples and training material.
 | Repository | What it is | Good for |
 |---|---|---|
 | [tableau_mcp_starter_kit](https://github.com/TheInformationLab/tableau_mcp_starter_kit) | Tableau MCP with LangChain, in Python | Adding AI features on top of Tableau data |
-| [tableau_langchain_starter_kit](https://github.com/TheInformationLab/tableau_langchain_starter_kit) | Tableau LangChain, in Python | The same, using LangChain directly |
 | [tableau-embedding-starter](https://github.com/TheInformationLab/tableau-embedding-starter) | A starter template for embedding Tableau dashboards in an app | Developers building portals |
 | [Tableau-Extension-ExportAll](https://github.com/TheInformationLab/Tableau-Extension-ExportAll) | A dashboard extension that exports summary data to Excel | Tableau authors who need exports |
 | [tableau-tools](https://github.com/TheInformationLab/tableau-tools) | A collection of small Tableau helpers | Tableau administrators |
