@@ -5,7 +5,7 @@
 
 The Information Lab is a global team of data enthusiasts. We help organisations get value from their data through skills, technology and processes, and this is where we share some of the code we build along the way.
 
-[Website](https://www.theinformationlab.co.uk) &nbsp;&middot;&nbsp; [The Data School](https://www.thedataschool.co.uk) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/company/the-information-lab/) &nbsp;&middot;&nbsp; [X](https://x.com/infolabUK) &nbsp;&middot;&nbsp; [Email us](mailto:info@theinformationlab.co.uk)
+[Website](https://www.theinformationlab.co.uk) &nbsp;&middot;&nbsp; [The Data School](https://www.thedataschool.co.uk) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/company/the-information-lab/) &nbsp;&middot;&nbsp; [Email us](mailto:info@theinformationlab.co.uk)
 
 ## What we do
 
