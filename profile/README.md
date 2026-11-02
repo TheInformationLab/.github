@@ -21,7 +21,7 @@ The Information Lab is a global team of data enthusiasts. We help organisations 
 |---|---|---|---|
 | We build and maintain the pipelines and transformation layers that analysts and BI teams depend on, using tools such as dbt. | Dashboards in Tableau, data preparation in Alteryx, and the support to get teams using them. | Courses for teams learning Tableau, Alteryx and dbt. | Licensing and hosting for the platforms we work with. |
 
-We partner with Tableau, Alteryx and dbt.
+We partner with Tableau, Alteryx, dbt, Fivetran, Snowflake and AWS.
 
 ## Code worth starting with
 
