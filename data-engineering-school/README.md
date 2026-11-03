@@ -45,6 +45,8 @@ The examples below were built by our own team, not by applicants. They use diffe
 | Example | Data | Built with | For |
 |---|---|---|---|
 | [des-application-example](https://github.com/TheInformationLab/des-application-example) | UK food hygiene ratings | Python, SQL, DuckDB, Streamlit | Office workers choosing lunch near our City of London office |
+| [OpenAlex-DEng-Application-Example-Pipeline](https://github.com/TheInformationLab/OpenAlex-DEng-Application-Example-Pipeline) | OpenAlex research publications, nested JSON | Python, SQL, DuckDB, Plotly | Early-career researchers exploring the research landscape in their field |
+| [deng-example1-Recipe-Unit-Converter](https://github.com/TheInformationLab/deng-example1-Recipe-Unit-Converter) | A small ingredient density API plus recipe text pasted by the user | Python, Pandas, Streamlit | Home bakers converting and scaling recipes |
 <!-- add a row for each team example as it joins the org -->
 
 Ready? [Apply on The Data School site](https://www.thedataschool.co.uk/apply/).
